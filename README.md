@@ -44,11 +44,11 @@ The structure consists of the following files and directories:
 
 ## Step 1: Archive your Instagram account
 do stuff
-# Step 2: Run create-tn.py to create thumbnails from images
+## Step 2: Run create-tn.py to create thumbnails from images
 do stuff
-# Step 3: Run create-tn-mp4.py to create thumbnails from videos
+## Step 3: Run create-tn-mp4.py to create thumbnails from videos
 do stuff
-# Step 4: Run insta2html.py to create website files
+## Step 4: Run insta2html.py to create website files
 do stuff
-# Step 5: Fit n finish
+## Step 5: Fit n finish
 do stuff
