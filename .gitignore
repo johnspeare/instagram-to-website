@@ -1,0 +1,40 @@
+# --- Local paths for this project (reference only) ---
+# Instagram archive source (input to insta2html.py / create-tn*.py):
+#   /Users/john/Dropbox/Apps/Meta/meta-2025-Feb-05-13-20-33
+#
+# Project working copy / exported site root:
+#   /Users/john/insta-export
+#
+# Edit these comments if the paths move.
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Generated / exported site output (when you export into this tree)
+insta/
+images/
+css/
+*.html
+
+# Thumbnails and caches
+*_tn.jpg
+*_tn.mp4
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
